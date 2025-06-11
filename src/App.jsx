@@ -8,7 +8,7 @@ import i from './assets/i.png'
 import gr from './assets/gr.png'
 import pp from './assets/pp.png'
 import dx from './assets/dx.png'
-import bach from './assets/intersect.png'
+
 import r1 from './assets/r1.png'
 import r2 from './assets/r2.png'
 import r3 from './assets/r3.png'
